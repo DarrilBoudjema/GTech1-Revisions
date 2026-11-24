@@ -96,6 +96,7 @@ Une signature précise rend une partie du contrat visible. `const T&` indique un
 ## 5. Définir des normes de codage
 
 **C++20** désigne une édition du standard C++. Une **charte de codage** fixe les choix communs à une équipe, par exemple le nommage, le formatage, la gestion des ressources et les conventions d’erreur. Voici un exemple de charte.
+Le standard C++ n’impose aucune norme de codage.
 
 | Sujet | Convention | Exemple |
 |---|---|---|
