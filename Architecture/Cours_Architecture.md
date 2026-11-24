@@ -97,7 +97,7 @@ Une signature précise rend une partie du contrat visible. `const T&` indique un
 
 **C++20** désigne une édition du standard C++. Une **charte de codage** fixe les choix communs à une équipe, par exemple le nommage, le formatage, la gestion des ressources et les conventions d’erreur. Voici un exemple de charte.
 
-| Sujet | Convention | 
+| Sujet | Convention | Exemple |
 |---|---|---|
 | Types | `PascalCase` | `TauxRemise` |
 | Fonctions et variables | `snake_case` | `taux_valide`, `prix_centimes` |
