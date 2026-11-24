@@ -354,16 +354,6 @@ Coche chaque test après l'avoir vérifié dans ton programme.
 - [ ] Les méthodes redéfinies portent le mot-clé `override`.
 - [ ] Le projet compile sans erreur avec `-Wall -Wextra -pedantic`.
 
-### Exemple de compilation
-
-Depuis le dossier `mediatheque/` :
-
-```bash
-g++ -std=c++17 -Wall -Wextra -pedantic -Iinclude src/*.cpp -o mediatheque
-./mediatheque
-```
-
-Sous Windows avec MinGW : l'exécutable peut s'appeler `mediatheque.exe`.
 
 ---
 
